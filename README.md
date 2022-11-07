@@ -27,6 +27,7 @@ In this analysis, we mainly focus on the temperature in the summer (June) and th
     
    ![Screen Shot 2022-11-06 at 10 24 42 PM](https://user-images.githubusercontent.com/112113327/200222405-8db8fe23-5281-42e6-b91b-207816dc5cd9.png)
 
+Another good practice is to consider mean temparature and precipitaion in each month and compute the regrassion lines for 12 months period. In this results, we can determine if the store should close for some months to avoid seasonal changes.
 
 * Next, the entire data set for the month of December was considered. From those 1517 observarions, the mean, medean, maximum temperature, quartiles and the standerd deviations were computed. The following image shows the temperature statistics for the month of December.
 
@@ -40,4 +41,10 @@ In this analysis, we mainly focus on the temperature in the summer (June) and th
 
 ## Weather Analysis Summary
 If we consider the two summary statistics shown in the result section for the months June and December, it can be observed that the temperature is higher in June than the December. For instance, the minimum temperature in June is 64 while it is 56 in December. Also, it can be noticed that about 25% of days in December are below 69 degrees which is not good for the ice cream business. However, the month of June is perfect for ice cream lovers as well as surf lovers. Therefore, the month of June would be great for the business.  
+
 When we consider the surfing, it would be a good idea to compute the statistics for precipitation in the months of June and December. Even though, the temperature is higher, it wouldn't be great for surfing if it is raining. In this way, we would be able to make a better decision about our business constraints.
+The precceding two images show the precipitaion statistics for both June and December. According to these data, there is no threat from raim in those two months.
+
+![Screen Shot 2022-11-06 at 11 37 12 PM](https://user-images.githubusercontent.com/112113327/200227943-ab45555f-68d5-4fe3-83f2-8b8debb07059.png)    ![Screen Shot 2022-11-06 at 11 36 57 PM](https://user-images.githubusercontent.com/112113327/200227950-3f4f35cd-94ce-4d10-9c7b-843f7bda5203.png)
+
+
