@@ -12,6 +12,6 @@ In this analysis, we mainly focus on the temperature in the summer (June) and th
     
     ![Screen Shot 2022-11-06 at 10 24 23 PM](https://user-images.githubusercontent.com/112113327/200220297-971b823d-a7be-4b8b-8d35-04570c7e23db.png)
 
-* Considering the entire data set for the month of June for all 7 years, the mean, nedean, quartiles and the standerd deviations were computed. The following image shows the above statistics for the month of June.
+* Considering the entire data set for the month of June for about 1700 observarions, the mean, medean, maximum temperature, quartiles and the standerd deviations were computed. The following image shows the temperature statistics for the month of June.
 
     ![Screen Shot 2022-11-06 at 9 39 39 PM](https://user-images.githubusercontent.com/112113327/200220805-930d288a-7fd5-42b0-bd48-52127c775891.png)
