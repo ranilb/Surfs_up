@@ -37,3 +37,7 @@ In this analysis, we mainly focus on the temperature in the summer (June) and th
     
    ![Screen Shot 2022-11-06 at 10 50 22 PM](https://user-images.githubusercontent.com/112113327/200222850-c63f7003-c8ea-4bad-9fc0-ac9e67e6f38e.png)
 
+
+## Weather Analysis Summary
+If we consider the two summary statistics shown in the result section for the months June and December, it can be observed that the temperature is higher in June than the December. For instance, the minimum temperature in June is 64 while it is 56 in December. Also, it can be noticed that about 25% of days in December are below 69 degrees which is not good for the ice cream business. However, the month of June is perfect for ice cream lovers as well as surf lovers. Therefore, the month of June would be great for the business.  
+When we consider the surfing, it would be a good idea to compute the statistics for precipitation in the months of June and December. Even though, the temperature is higher, it wouldn't be great for surfing if it is raining. In this way, we would be able to make a better decision about our business constraints.
